@@ -1,3 +1,7 @@
+'''
+Changes
+'''
+
 import math
 
 with open('AVO\Day3\day3_input.txt') as f:
